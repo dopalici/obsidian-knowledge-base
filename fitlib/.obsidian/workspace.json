@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "9978a934644665fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d721729788735df1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b816e9bf798dffab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "X. Sports-Specific Training.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "X. Sports-Specific Training"
+            }
+          },
+          {
+            "id": "46254ffb7f02bb17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B13. Strength Training Goals (Max Strength, Power, Hypertrophy, Endurance).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B13. Strength Training Goals (Max Strength, Power, Hypertrophy, Endurance)"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a94369f6f4a874c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c836dba4fe28dd23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b54b885d4df1d00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "64c76c9bc3c85d76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "f",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "18b45887090e1c45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7e4eb4b9a1e11b6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0efc6c344ce413bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d93e6e2ac5bf967d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "B13. Strength Training Goals (Max Strength, Power, Hypertrophy, Endurance).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for B13. Strength Training Goals (Max Strength, Power, Hypertrophy, Endurance)"
+            }
+          },
+          {
+            "id": "fc313d283443325f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ftilib.docx.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ftilib.docx"
+            }
+          },
+          {
+            "id": "2a8ac37782385b41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b9f55e6380413011",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "B13. Strength Training Goals (Max Strength, Power, Hypertrophy, Endurance).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of B13. Strength Training Goals (Max Strength, Power, Hypertrophy, Endurance)"
+            }
+          },
+          {
+            "id": "8d4201fac4e008fc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "46254ffb7f02bb17",
+  "lastOpenFiles": [
+    "X. Sports-Specific Training.md",
+    "X12. Vertical Jump Training.md",
+    "X11.8 Hamstring Injury Prevention in Sprinters.md",
+    "X11.1 Sprint Start & Acceleration Technique.md",
+    "X11.2 Maximum Velocity Mechanics.md",
+    "X11. Sprinting.md",
+    "E14 Concurrent Training Updated Protocols & Considerations.md",
+    "B15 Olympic Weightlifting.md",
+    "B Resistance Training.md",
+    "X1. Running (Track, Road, Trail).md",
+    "neovit.lib",
+    "remote-log",
+    "EXL-54 Pec Deck Fly (Machine).md",
+    "B1 Progressive Overload.md",
+    "B9 Kettlebell Training.md",
+    "B19 Isometrics.md",
+    "EXL-64 Hip Adduction (Machine).md",
+    "EXL-47 Leg Extension (Machine).md",
+    "EXL-12 Cable Triceps Pushdown.md",
+    "EXL-68 Cable Overhead Triceps Extension (RopeBar).md",
+    "EXL-65 Assisted Pull-upDip Machine.md",
+    "EXL-59 Triceps Extension (Machine - Overhead or Pushdown type).md",
+    "EXL-35 Dumbbell Overhead Triceps Extension (Single & Double Arm).md",
+    "EXL-34 Dumbbell Triceps Kickback.md",
+    "EXL-67 Cable Triceps Pushdown (RopeBar).md",
+    "EXL-79 Cable Pull-Through.md",
+    "Q1. Exercise Progression Principles.md",
+    "EXL-30 Dumbbell Bicep Curl (Standing, Alternating).md",
+    "EXL-67 Cable Triceps Pushdown (Rope",
+    "EXL-36 Dumbbell Lunge (Static/Alternating",
+    "EXL-36 Dumbbell Lunge (Static",
+    "EXL-65 Assisted Pull-up",
+    "G3. Training with Health Limitations ",
+    "C28. Nutrition for Strength",
+    "X9. Gymnastics ",
+    "C33. Anti-Inflammatory Foods",
+    "Untitled.canvas"
+  ]
+}
